@@ -1,3 +1,9 @@
+Customer is asking to document the following
+deletedDateTime, applicationTemplateId, isDeviceOnlyAuthSupported, nativeAuthenticationApisEnabled, serviceManagementReference, defaultRedirectUri, servicePrincipalLockConfiguration, requestSignatureVerification
+attributes in public document
+https://learn.microsoft.com/en-us/entra/identity-platform/reference-microsoft-graph-app-manifest
+Checking https://learn.microsoft.com/en-us/graph/api/resources/application?view=graph-rest-1.0 it can be seen that attributes are present
+
 ---
 title: "application resource type"
 description: "Represents an application."
